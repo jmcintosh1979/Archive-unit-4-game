@@ -1,0 +1,17 @@
+body { 
+  background-image: url("../images/coalminecarts.jpg");
+  background-size: 100%;
+}
+
+header {
+  text-align: center;
+  font-size: 25em;
+  color: white;
+  margin: 3%;
+}
+
+.blue-crystal {
+  position: absolute;
+    left: 0;
+    top: 50%;
+}
